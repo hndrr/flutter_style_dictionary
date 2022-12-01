@@ -14,6 +14,7 @@ scss
 
 ```txt
 ├── lib/
+│     ├── main.dart
 │     ├── style_dictionary_color.dart
 │     ├── style_dictionary_sizes.dart
 │     ├── unique_file/
