@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.flutter_style_dictionary">
+    package="com.flutter_style_dictionary">
    <application
         android:label="flutter_style_dictionary"
         android:name="${applicationName}"
