@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.flutter_design_token">
+    package="com.example.flutter_style_dictionary">
    <application
-        android:label="flutter_design_token"
+        android:label="flutter_style_dictionary"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

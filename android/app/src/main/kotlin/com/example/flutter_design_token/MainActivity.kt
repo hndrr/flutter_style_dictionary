@@ -1,4 +1,4 @@
-package com.example.flutter_design_token
+package com.example.flutter_style_dictionary
 
 import io.flutter.embedding.android.FlutterActivity
 
