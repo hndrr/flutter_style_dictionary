@@ -9,9 +9,6 @@ style-dictionary build
 
 You should see something like this output:
 
-scss
-✔︎  build/scss/_variables.scss
-
 ```txt
 ├── lib/
 │     ├── main.dart
