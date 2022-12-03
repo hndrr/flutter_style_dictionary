@@ -15,7 +15,7 @@ You should see something like this output:
 │     ├── style_dictionary_color.dart
 │     ├── style_dictionary_sizes.dart
 │     ├── unique_file/
-│          ├── unique_file/style_dictionary.dart
+│          ├── style_dictionary.dart
 ├── style_dictionary/
 │     ├── README.md
 │     ├── config.json
